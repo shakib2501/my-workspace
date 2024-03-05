@@ -1,2 +1,1 @@
-# MySite
-My Website
+# MyWorkspace
