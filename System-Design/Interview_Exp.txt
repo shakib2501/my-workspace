@@ -1,0 +1,6 @@
+Round 5: (System design)
+Thanks to 3 things, I was able to crack this round. Not just crack but enjoy it thoroughly. This round was the best of all:
+
+My amazing experience at my company before I joined Atlassian
+Designing Data Intensive Applications by O'reilly media
+Extensive use of ChatGPT (free version). I literally asked it to play the role of an interviewer at Google and evaluate my design. I would literally write down all my FR, NFR, capacity estimations, took its feedback, then write down about all the components involved, data stores (when? what? why? pros and cons), message queues (which and why), etc. And chatgpt evaluated my design. Initially chatgpt would give me many red flags. But it helped me raise my standards to the extend of not just building the core system but also talk about implementing logging, metrics, audit, data analytics, security, privacy, etc. This shows the interviewer how in-deep can you think about a system.
